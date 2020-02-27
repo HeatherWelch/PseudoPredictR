@@ -1,0 +1,11 @@
+Package: PseudoPredictR
+Title: A package to crease pseudo predictors from classical paintings to check the significance of climatic and topographical predictors
+Version: 0.0.0.9000
+Authors@R: person("Heather", "Welch", email = "welchhm1@gmail.com", role = c("aut", "cre"))
+Description: This package has two functions: 1) PseudoLayer, which generates a classical painting raster that matches the extent, resolution, and optionally mask of your climatic or topographical prediction raster
+Depends: R (>= 3.3.2)
+Imports: PseudoLayer
+License: YOLO
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
