@@ -1,5 +1,7 @@
 # PseudoPredictR
 
+[![DOI](https://zenodo.org/badge/243581193.svg)](https://zenodo.org/badge/latestdoi/243581193) <br />   
+
 PseudoPredict package <br />   
 
 <img src="inst/imgs/PseudoPredictR.png?raw=True" width="100">
