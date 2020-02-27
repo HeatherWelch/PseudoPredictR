@@ -1,7 +1,5 @@
 # PseudoPredictR
 
-Create a pseudo predictor layer based on a classical painting to assess the significance of your climatic and topographical predictors in species distribution models using the **PseudoLayer** function.
-
 [![DOI](https://zenodo.org/badge/243581193.svg)](https://zenodo.org/badge/latestdoi/243581193) <br />   
 
 PseudoPredict package <br />   
