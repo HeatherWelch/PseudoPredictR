@@ -17,7 +17,14 @@ install_github("HeatherWelch/PseudoPredictR") <br />**
 
 ### Example of pseudo predictors
 
-<img src="inst/imgs/Untitled.png?raw=True" width="800">
+<img src="inst/imgs/fathorse_comp.png?raw=True" width="800">
+<img src="inst/imgs/bad_day_comp.png?raw=True" width="800">
+<img src="inst/imgs/barrel_comp.png?raw=True" width="800">
+<img src="inst/imgs/boat_comp.png?raw=True" width="800">
+<img src="inst/imgs/headless_horseman_comp.png?raw=True" width="800">
+<img src="inst/imgs/longdog_comp.png?raw=True" width="800">
+<img src="inst/imgs/orange_you_glad_comp.png?raw=True" width="800">
+<img src="inst/imgs/ship_comp.png?raw=True" width="800">
 
 
 
