@@ -21,7 +21,7 @@ PseudoLayer=function(inputRas,pseudoRas="fathorse",mask=F){
   if(pseudoRas=="show me"){
     print("bad_day, barrel, boat, fathorse, headless_horseman, longdog, orange_you_glad, ship")
   } else {
-  image=raster(glue("data/{pseudoRas}.jpg"))
+  image=raster(system.file(glue("inst/imgs/{pseudoRas}.jpg"), "PseudoPredictR"))
   extent(image)=extent(inputRas)
   crs(image)=crs(inputRas)
   b=resample(image,inputRas)
