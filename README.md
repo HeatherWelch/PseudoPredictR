@@ -17,6 +17,8 @@ install_github("HeatherWelch/PseudoPredictR") <br />**
 
 ### Example of pseudo predictors
 
+<img src="inst/imgs/Untitled.png?raw=True" width="100">
+
 
 
 
