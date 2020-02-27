@@ -1,7 +1,7 @@
 # PseudoPredictR
 
 PseudoPredict package <br />  
-<img src="inst/imgs/beatr.png?raw=True" width="100">
+<img src="inst/imgs/PseudoPredictR.png?raw=True" width="100">
 
 Create a pseudo predictor layer based on a classical painting to assess the significance of your climatic and topographical predictors using the **PseudoLayer** function.
 
