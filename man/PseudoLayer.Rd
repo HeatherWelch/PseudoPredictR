@@ -10,6 +10,11 @@ PseudoLayer(inputRas, pseudoRas = "fathorse", mask = F)
 \item{inputRas}{Your prediction layer}
 
 \item{pseudoRas}{character string specifiying which built-in classical painting to use as pseudo predictor. Defaults to fathorse.}
+
+\item{mask}{Should the output raster be masked to your input data?}
+}
+\value{
+a raster object
 }
 \description{
 This function allows you play some nasty beats to accompany your code.
