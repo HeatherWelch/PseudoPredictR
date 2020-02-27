@@ -13,7 +13,7 @@ A nastyverse package <br />
 **you can install by running:  
 install.packages("devtools") <br />
 library(devtools) <br />
-install_github("HeatherWelch/PseudoPredictR") 
+install_github("HeatherWelch/PseudoPredictR")  <br />
 ?PseudoPredictR::PseudoLayer
 <br />**
 
