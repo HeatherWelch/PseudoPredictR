@@ -34,3 +34,29 @@ PseudoLayer=function(inputRas,pseudoRas="fathorse",mask=F){
   }
   
 }
+
+
+
+
+# creating readme files
+# layer=raster()
+# images=c("bad_day", "barrel", "boat", "fathorse", "headless_horseman", "longdog", "orange_you_glad", "ship")
+# for(image in images){
+#   a=PseudoLayer(inputRas = layer,pseudoRas = image)
+#   
+#   map=rasterVis::gplot(a,maxpixels=300000)+geom_tile(aes(fill=value))+
+#     scale_fill_gradientn(colours = pals::parula(100),na.value="black")+
+#     coord_equal()+ theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+#     scale_y_continuous(expand = c(0,0),limits = c(-90,90)) + 
+#     scale_x_continuous(expand = c(0,0),limits = c(-180,180)) +theme_void()+theme(legend.position = "none") 
+#   
+#   map
+#   
+#   png(glue("/Users/heatherwelch/Dropbox/nastyverse/PseudoPredictR/PseudoPredictR/inst/imgs/{image}.png"),width=36,height=20,units='cm',res=400)
+#   par(ps=10)
+#   par(mar=c(1,1,1,1))
+#   par(cex=1)
+#   print({map})
+#   dev.off()
+# }
+# 
