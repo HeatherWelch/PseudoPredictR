@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/243581193.svg)](https://zenodo.org/badge/latestdoi/243581193) <br />   
 
-PseudoPredict package <br />   
+PseudoPredict R package to see which of your SDM predictors perform worse than random.   
 
 <img src="inst/imgs/PseudoPredictR.png?raw=True" width="100">
 
