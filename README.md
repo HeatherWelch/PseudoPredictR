@@ -2,7 +2,7 @@
 
 PseudoPredict package <br />   
 
-<img src="inst/imgs/PseudoPredictR.png?raw=True" width="100">
+<img src="inst/imgs/PseudoPredictR.png?raw=True">
 ![alternativetext](inst/imgs/PseudoPredictR.png)
 
 
